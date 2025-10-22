@@ -1,0 +1,22 @@
+img{
+    height: 300px;
+    width: 500px;
+    border: 5px solid white;
+}
+html{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+div{
+    text-align: center;
+    
+}
+.img_section{
+    margin-top: 150px;
+}
